@@ -7,6 +7,7 @@ Download  Release ➢ [Create-Windows-USB](https://github.com/chris1111/Create-W
 [Not need to install] ` wimlib, Homebrew, Xcode or CommandLine tools`
 
 [Your only need] `8 gig USB drive` ,`ISO image from Microsoft`
+- Working from Mojave 10.14 to macOS Ventura 13
 - Disabled Gatekeeper
 
 ## Nothing is install on your macOS System
