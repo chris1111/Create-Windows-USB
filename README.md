@@ -1,5 +1,6 @@
 # Create-Windows-USB  ** Without BOOT CAMP **
-Tools to Create Windows USB (Portable wimlib 1.14.1)
+Tools to Create Windows USB (Portable wimlib 1.14.1) 
+- Bootable UEFI only
 
 ### Download  Release ➢ [Create-Windows-USB](https://github.com/chris1111/Create-Windows-USB/releases/V1)
 ### Video Usage ➢ [Usage Video](https://github.com/chris1111/Create-Windows-USB/blob/Master/USAGE-VIDEO.md)
