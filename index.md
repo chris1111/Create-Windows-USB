@@ -24,10 +24,3 @@ Tools to Create Windows USB (Portable wimlib 1.14.1)
 ## Nothing is install on your macOS System
 
 ### Credit: [Wimlib](https://wimlib.net/), [chris1111](https://github.com/chris1111)
-
-![Screenshot1](https://github.com/chris1111/Create-Windows-USB/assets/6248794/c198aa02-3ea6-4378-ad4f-b505e7b36ef9)
-
-![Screenshot2](https://github.com/chris1111/Create-Windows-USB/assets/6248794/8db2a62e-cdf7-48c4-89bc-39c0467eedaa)
-
-![Screenshot3](https://github.com/chris1111/Create-Windows-USB/assets/6248794/95c70219-2f33-47d9-b087-3788c9061114)
-
