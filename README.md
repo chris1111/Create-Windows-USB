@@ -17,7 +17,8 @@ Tools to Create Windows USB (Portable wimlib 1.14.1)
 
 ### Credit: [Wimlib](https://wimlib.net/), [chris1111](https://github.com/chris1111)
 
-<img src="https://github.com/chris1111/Create-Windows-USB/blob/Master/PICS/Screenshot1.png" width="500px">
-<img src="https://github.com/chris1111/Create-Windows-USB/blob/Master/PICS/Screenshot2.png" width="500px">
-<img src="https://github.com/chris1111/Create-Windows-USB/blob/Master/PICS/Screenshot3.png" width="500px">
+![Demo](https://github.com/chris1111/Create-Windows-USB/blob/Master/PICS/Screenshot1.png)
 
+![Demo](https://github.com/chris1111/Create-Windows-USB/blob/Master/PICS/Screenshot2.png)
+
+![Demo](https://github.com/chris1111/Create-Windows-USB/blob/Master/PICS/Screenshot3.png)
