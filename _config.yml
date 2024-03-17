@@ -1,5 +1,5 @@
 title: Create-Windows-USB
-description: Tools to Create Windows USB (Portable wimlib 1.14.1) ** Without BOOT CAMP **
+description: Tools to Create Windows USB
 github:
   repository_url: https://github.com/chris1111/Create-Windows-USB
 remote_theme: chris1111/cayman-dark
