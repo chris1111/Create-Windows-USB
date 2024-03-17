@@ -8,8 +8,9 @@ Tools to Create Windows USB (Portable wimlib 1.14.1)
 
 ### Download  Release ➢ [Create-Windows-USB](https://github.com/chris1111/Create-Windows-USB/releases/V1)
 
-### Video Usage - ⬇︎
-[Video Usage](https://github.com/chris1111/Create-Windows-USB/assets/6248794/031361d6-84f4-4734-acbb-c5b126caef80)
+<video controls autoplay>
+  <source src="PICS/Create-Windows-USB.mp4" type="video/mp4">
+</video>
 
 
 #### The images (WimlibDev.dmg) tools is created from [Wimlib-Imagex-Package](https://github.com/chris1111/Wimlib-Imagex-Package) with ➢ [Create-WimlibDev](https://github.com/chris1111/Create-WimlibDev)
