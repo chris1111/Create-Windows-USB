@@ -1,13 +1,13 @@
 # Create-Windows-USB  ** Without BOOT CAMP **
-Tools to Create Windows USB (Portable wimlib 1.14.1) 
+Tools to Create Windows USB (Portable wimlib 1.14.4) 
 - Bootable UEFI only
-- Working from Mojave 10.14 to macOS Sonoma 14
+- Working from Mojave 10.14 to macOS Sequoia 15
 - Disabled Gatekeeper
 
 ## Nothing is install on your macOS System
 ### Credit: [Wimlib](https://wimlib.net/), [chris1111](https://github.com/chris1111)
 
-### Download  Release ➢ [Create-Windows-USB](https://github.com/chris1111/Create-Windows-USB/releases/V1)
+### Download  Release ➢ [Create-Windows-USB](https://github.com/chris1111/Create-Windows-USB/releases/V2)
 ### Video Usage ➢ [Usage Video](https://github.com/chris1111/Create-Windows-USB/blob/Master/USAGE-VIDEO.md)
 
 #### The images (WimlibDev.dmg) tools is created from [Wimlib-Imagex-Package](https://github.com/chris1111/Wimlib-Imagex-Package) with ➢ [Create-WimlibDev](https://github.com/chris1111/Create-WimlibDev)
